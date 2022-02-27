@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A happy defeat given to the kings forces, neere Tipton Green, in Staffordshire. Where were routed the Kings Generall Lord Wilmote, Lord Wentworth, Lord Cleveland, Colonell Sands, and other incendiaries 4000 horse, and many foote, 100 slaine upon the place, besides many wounded, taken prisoners, 1 captain, 2 cornets, and other officers. And the number and names of those that were slain and wounded on our side. Also other prisoners taken by the Earl of Denbie, as they were going to joyne with Prince Rupert.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87073</idno>
+            <idno type="STC">Wing H666</idno>
+            <idno type="STC">Thomason E51_12</idno>
+            <idno type="STC">ESTC R23272</idno>
+            <idno type="EEBO-CITATION">99871949</idno>
+            <idno type="PROQUEST">99871949</idno>
+            <idno type="VID">155183</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87073)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155183)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 9:E51[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A happy defeat given to the kings forces, neere Tipton Green, in Staffordshire. Where were routed the Kings Generall Lord Wilmote, Lord Wentworth, Lord Cleveland, Colonell Sands, and other incendiaries 4000 horse, and many foote, 100 slaine upon the place, besides many wounded, taken prisoners, 1 captain, 2 cornets, and other officers. And the number and names of those that were slain and wounded on our side. Also other prisoners taken by the Earl of Denbie, as they were going to joyne with Prince Rupert.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Coe, according to order,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M DC XLIV. [1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 18th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Staffordshire (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155183:1" rendition="simple:additions"/>
+            <p>A happy DEFEAT Given to the Kings Forces, neere Tipton Green, in Staffordſhire.</p>
+            <p>
+               <hi>Where were routed</hi>
+               <list>
+                  <item>The Kings Generall Lord <hi>Wilmote,</hi>
+                  </item>
+                  <item>Lord <hi>Wentworth,</hi>
+                  </item>
+                  <item>Lord <hi>Cleveland,</hi>
+                  </item>
+                  <item>Colonell <hi>Sands,</hi> and other Incendiaries</item>
+                  <item>4000 horſe, and many foote,</item>
+                  <item>100 ſlaine upon the place, beſides many wounded,</item>
+               </list>
+            </p>
+            <p>
+               <hi>Taken priſoners,</hi>
+               <list>
+                  <item>1 Captain,</item>
+                  <item>2 Cornets, and other Officers.</item>
+               </list>
+            </p>
+            <p>And the number and names of thoſe that were ſlain and wounded on our ſide.</p>
+            <p>Alſo other Priſoners taken by the Earle of Denbie, as they were going to joyne with Prince <hi>Rupert.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Andrew Goe,</hi> according to Order, <hi>MDCXLIV.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155183:2"/>
+            <pb facs="tcp:155183:2"/>
+            <head>¶ A happy defeat given to a party of the Kings Forces neere Typton green, by the Earle of Denbigh.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>BY reaſon of the ſteepeneſſe of the hill that wee cut our paſſage for our Ordnance for a battery, and the rockineſſe of the ground; we have a toileſome time, yet my Lord of Denbie, plies the ſervice hard, and is mightily with them in the workes, toe encou<g ref="char:EOLhyphen"/>rage them till breake of day, expoſing himſelfe to all ha<g ref="char:EOLhyphen"/>zards, truly he is a galant man, and (beyond all ever was imagined) carries on all conquering with love as wel as Armes, even overcoming his enemies, the King Prince, and Duke of Yorke, were on Monday <hi>Iune</hi> 6 at Everſham, and that is 16 miles from us, we have taken ſome priſoners ſuppoſed to goe towards Prince <hi>Rupert:</hi> we laſt night <hi>Iune</hi> 6, received Letters from Stafford on Aven, from Coven<g ref="char:EOLhyphen"/>try Forces to my Lord. <hi>That the King was marched towards Worceſter,</hi> and that the <hi>Parliaments foote were quartered in their Reare 8 miles diſtant, and their horſe were appearing on kills three miles from Eaſome, and that the horſe march with ſpeede after them.</hi>
+                  </p>
+                  <closer>
+                     <signed>Subſcribed <hi>Purfrey, Colmer, Willowby,</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb facs="tcp:155183:3"/>
+            <p>I hope you ſhall heare we have diſpatched here ere long; and are marched into Cheſhire with Sir <hi>Thomas Middleton</hi> now with us, and Colonell <hi>Mitton</hi> to recover thoſe parts.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Worthy Sir,</salute>
+                     <dateline>
+                        <hi>From the Leaguer before Dudley</hi> 
+                        <date>June <hi>the</hi> 10</date>
+                     </dateline>
+                  </opener>
+                  <p>ON Saturday laſt we received a Letter from Sir <hi>Wil. Waller,</hi> wherein he writes to my Lord of Denbigh to joine with him to purſue his Ma<g ref="char:EOLhyphen"/>jeſty in the Reare, who is in a retreating poſture, his Maieſty was at Eaſome then: Yeſterday wee had intelligence he was at Bewdly, and Kitter<g ref="char:EOLhyphen"/>minſter his ſoote 8 miles from us, we quartered all our horſe, my Lords and Sir <hi>Thomas</hi> his horſe at Sturbridge, Hales-owen, Rowly, and as neere them as conveniently may be, for they make good Beudly bridge with free Quarter there; this morning wee have intelligence, Sir <hi>Wiliam Waller</hi> is about Holt Caſtle in Worceſterſhire, the King moves on the other ſide Severne: Laſt night we called after ſermon a Councell of war, to confult what was beſt to do: whether to con<g ref="char:EOLhyphen"/>tinue our ſiege; or to remove to be gone to goe to Wem, becauſe wee heare the King is going to Shrewsbury, (for us to relieve Wem.) And it was reſolved by the moſt votes, in regard ſir <hi>Thomas Middleton</hi> was ingaged to Cheſhire forces, and muſt draw off his forces, that it is not ſafe for my Lord to continue the ſiege, but to march to<g ref="char:EOLhyphen"/>ward
+<pb facs="tcp:155183:3"/>Wem; and joyne in a body to follow the King, or fall in the Reare of Prince <hi>Rupert:</hi> The caſtle laſt night pretended a parley with us, and let down a letter with a piece of lead, which was thus.</p>
+                  <p>You are immediatly to depart you Tray<g ref="char:EOLhyphen"/>tours and Rebels, or to morrow you ſhall be forced to leave your Artillery behind you, and you ſhall have no quarter: for wee are reſolved to chaſtiſe you for your inſolencies.</p>
+                  <closer>
+                     <dateline>
+                        <hi>From his Majeſties Caſtle of</hi> Dudley.</dateline>
+                     <signed>I. BEAUMONT.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>The ſaid Beaumont commands in chief. They called yea Dogs, give us an anſwer, At which we fired three peeces of Ordnance on them. We remove not this day to experience their brava, does, but I think we ſhall march away ſuddenly. My Lord writ to ſir <hi>Will. Waller</hi> to join with him.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>Another Letter dated Iune 12. 1644.</head>
+                  <opener>
+                     <salute>Worthy Friend.</salute>
+                  </opener>
+                  <p>IT is the Lords renewed mercie to me I am now alive, to write to you of this daies occurrences for we have been in as hot ſervice, as ever I ſaw this day, and through Gods mercie came off with admired honour, from the mouths of our enemies, I can truly ſay I know not who in his place was defective in his duty and <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>. We had the firſt Alarme about two a clock in the morning, but it was eight ere all our horſe could be got
+<pb facs="tcp:155183:4"/>from their Quartrrs into the field about nine of the clock they faced us, and we them, and in the meane time hea<g ref="char:EOLhyphen"/>ring that they were 4000 horſe beſides foote, we drew out our Ordnance which were neere engaged with much toil and our foote; we drew our Ordnance to Tipton Greene with much difficulty, the way almoſt with this raine made impaffible, where being drawne up my Lord deſi<g ref="char:EOLhyphen"/>ſired Sir <hi>Tho Middleton</hi> with Cup <hi>Keme</hi> his troop &amp; Cap. <hi>T<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mſon</hi> to lead the Van, and Col: <hi>Ridgly</hi> the Reare. Col. <hi>Mitten</hi> and Captain <hi>Keme</hi> two gallant Commanders of valient Spirits, commanded two forlorne hopes in the van of the Carrages, each of them one. We had not marched ha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fe a mile but the enemie had ambuſheadoed the hedges, and then their body of horſe appeared in the lane, ſo that we were called to draw up, but before we came that were of that forlorne hope: Colonell <hi>Bartons</hi> Troope, Captain <hi>Keme,</hi> and Captain <hi>Noaks,</hi> Captain <hi>Tompſons,</hi> charged them ſo fiercely, that paſsing with ſome little loſſe, our ambuſh routed their horſe, killed three ſcore in the lane, their horſe retreating, their ambuſheadors fled, the foote ſeeing that, purſued them deſperately, and fired gal<g ref="char:EOLhyphen"/>lantly, My Lord Denbigh deported himſelfe with much gallantrie, leading the foote himſelfe, he ſaid he had rather loſe 10 lives, had he them to loſe, then one piece of his Artillerie and although our carriages broke twice, yet we made them good, beate them from them, and have brought off all bleſſed be God, Captaine Kenae had one man loſt, and another ſhot through, who fought bravely, and Cap<g ref="char:EOLhyphen"/>tain Kemes own horſe ſhot in the head, Captain <hi>Thompſon</hi> of ours is ſhot in the cheeke, Captain Lieutenant <hi>Farrer,</hi> Sir <hi>Thomas</hi> his Captain Lievtenant of horſe, in the nec Captaine <hi>Clever</hi> ſlaine, who fought valiantly after the <hi>w<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>,</hi>
+                     <pb facs="tcp:155183:4"/>wounded in the arme; yet charged again and was ſhot in the belly. Captaine <hi>Turtows</hi> Lievtenant is ſhott through.</p>
+                  <p>In all wee have loſt eight men, about 20 wounded, the fight laſted from two of the clock till five, as fierce ſi<g ref="char:EOLhyphen"/>rings as you ever heard, we kild about 100 of them in all and it is credibly reported, wounded many more, their word was <hi>Worceſter,</hi> ours <hi>God, King, and Parliament.</hi> They curſt their men for cowards, and ſaid <hi>Denbighs</hi> baſtards fight like devils, they were two for our own, wee jointly deſire God may have the glory of all, Captain <hi>Bray</hi> was ſhot in the mouth of our party, there was Generall <hi>Wilmot, Wentworth,</hi> Lord <hi>Cleveland,</hi> with them Colonell <hi>Sands,</hi> &amp;c. They all came to relieve the Papiſts with might and main, but we ſent them back with powder.</p>
+                  <p>We are now, bleſſed be God, at Walfall, where we are in expectation of another touch this night, God pre<g ref="char:EOLhyphen"/>pare us for it.</p>
+                  <p>Never could any Generall behave himſelfe better then my Lord did, and all Officers and Souldiers did ſtirre e<g ref="char:EOLhyphen"/>qually to ſhare in honour, my Lord and Sir <hi>Thomas</hi> came up and gave all thanks: The fight ended, Captaine <hi>Keme</hi> commanded the Van, and bleſſed be God hath lodged all the Artillery ſafe in the Town, nor would my Lord come off the Rear till all was ſafe up, wee wiſht Sir <hi>William Wal<g ref="char:EOLhyphen"/>ler</hi> in their Rear, and Captain <hi>Keme</hi> diſpatched his man to that purpoſe, laſt night: <hi>June</hi> 11, with a Letter from my Lord, but I fear he is taken, they came ſo quickly on, wee took many Priſoners, two Cornets or horſe Colours, one is a red Bull in a white field roaring, one Captain <hi>Keight</hi> a
+<pb facs="tcp:155183:5"/>Cloceſterſhire Gentleman (of horſe) his father is high She<g ref="char:EOLhyphen"/>riffe: I believe there have few ſieges been) raiſed in a more gallant way.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>
+                     <hi>From</hi> Walfall, June 12, <hi>at ten a clock at night.</hi>
+                  </head>
+                  <p>Sir, Captain <hi>Keme</hi> tooke priſoner a Spy with a Warrant from Lievtenant Colonel <hi>Beaamont,</hi> I have ſent you the copie, it was on the Lords day to ſummon Fidlers to make them merry, as you may ſee by this incloſed.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To the chief Muſician in <hi>Dudley</hi> Caſtle.</head>
+                  <p>THeſe are to will and require you to bring all your in<g ref="char:EOLhyphen"/>ſtruments of Muſicke, eſpecially your loud Muſick and repair to his Majeſties Caſtle at <hi>Dudley.</hi> If any of you ſhall fail, I will not fail to fire his or their houſes for their diſrepects.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Fom his Majeſties Caſtle at</hi> Dudley.</dateline>
+                     <signed>J. Beamont.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Publiſhed according to Order. Tueſday, <hi>Iune,</hi> 18. 1644.</p>
+            <pb facs="tcp:155183:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
